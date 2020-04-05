@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-chiplonker-d/precache-manifest.dd0dbd6c482b30eb125b17c19db324b1.js"
+  "/Crio-Launch-Feb-2020-chiplonker-d/precache-manifest.44378444f7787e0b29244ccf5ff7d7b5.js"
 );
 
 self.addEventListener('message', (event) => {
